@@ -1,0 +1,19 @@
+# Case Study: Resolving Fiber Optic Signal Degradation
+
+## Scenario
+A metro telecom hub reported degraded signal quality on a DWDM fiber link, impacting customer data throughput.
+
+## Diagnostic Steps
+- Verified power supply and UPS status.
+- Inspected fiber connectors for dust and damage.
+- Ran OTDR (Optical Time Domain Reflectometer) test to locate attenuation points.
+- Checked SONET equipment logs for error counts.
+
+## Resolution
+- Identified contaminated fiber connectors causing signal loss.
+- Cleaned and replaced connectors with proper dust caps.
+- Coordinated with vendor to recalibrate DWDM multiplexers.
+- Restored full throughput and documented preventive measures.
+
+## Outcome
+Service was restored within 4 hours. Lessons learned were added to the troubleshooting guide, emphasizing regular fiber inspection and connector cleaning protocols.
