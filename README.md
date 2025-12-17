@@ -1,4 +1,4 @@
-# Tony's Engineering Portfolio
+# Antonio's Engineering Portfolio
 
 Welcome! I'm a Product Support Engineer with 14+ years of experience in telecom infrastructure, electrical systems, and cross-functional leadership. This portfolio showcases domain-relevant projects that reflect my commitment to clarity, strategic problem-solving, and bilingual communication.
 
