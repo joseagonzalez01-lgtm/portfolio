@@ -19,8 +19,17 @@ Examples of technical reports, stakeholder updates, and visual aids for engineer
 - [Bilingual Presentation Slides](./bilingual-presentation-slides/)
 
 ## 🧠 Skills Highlighted
-- Telecom & Electrical Infrastructure
-- Public Health Data Analysis
-- Bilingual Communication (English/Spanish)
-- Presentation Design & Visual Storytelling
-- Strategic Documentation & Troubleshooting
+Telecom & Electrical Infrastructure  
+Proven expertise in diagnosing, maintaining, and optimizing complex systems across fiber optics, electrical grids, and telecom networks.
+
+Public Health Data Analysis  
+Skilled in interpreting epidemiological trends, validating datasets, and presenting insights for community health decision-making.
+
+Bilingual Communication (English/Spanish)  
+Fluent in cross-cultural messaging, tailoring technical and health content for diverse audiences with clarity and empathy.
+
+Presentation Design & Visual Storytelling  
+Creates compelling slide decks and visual aids that simplify complex ideas and resonate emotionally with audiences.
+
+Strategic Documentation & Troubleshooting  
+Delivers clear, actionable documentation and workflow solutions — bridging technical rigor with practical usability.
