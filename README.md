@@ -1,6 +1,15 @@
 # Antonio's Engineering Portfolio
 
-Welcome! I'm a Product Support Engineer with 14+ years of experience in telecom infrastructure, electrical systems, and cross-functional leadership. This portfolio showcases domain-relevant projects that reflect my commitment to clarity, strategic problem-solving, and bilingual communication.
+Welcome! I'm a Product Support Engineer with 14+ years of experience in telecom infrastructure, electrical systems, and cross-functional leadership. 
+This portfolio highlights my ability to bridge technical rigor with clear communication, bilingual outreach, and strategic documentation — designed to empower both engineering teams and diverse communities.
+
+
+## 🔧 Featured Projects
+
+- [Telecom Troubleshooting Guide](./telecom-troubleshooting-guide/)
+- [Public Health Data Visuals](./public-health-data-visuals/)
+- [Bilingual Presentation Slides](./bilingual-presentation-slides/)
+- [Strategic Documentation Templates](./strategic-documentation-templates/)
 
 ## 🔧 Featured Projects
 
@@ -19,17 +28,20 @@ Examples of technical reports, stakeholder updates, and visual aids for engineer
 - [Bilingual Presentation Slides](./bilingual-presentation-slides/)
 
 ## 🧠 Skills Highlighted
-### Telecom & Electrical Infrastructure  
-Proven expertise in diagnosing, maintaining, and optimizing complex systems across fiber optics, electrical grids, and telecom networks.
 
-### Public Health Data Analysis  
-Skilled in interpreting epidemiological trends, validating datasets, and presenting insights for community health decision-making.
+- **Telecom & Electrical Infrastructure**  
+  Expertise in diagnosing, maintaining, and optimizing fiber optics, electrical grids, and telecom networks.
 
-### Bilingual Communication (English/Spanish)  
-Fluent in cross-cultural messaging, tailoring technical and health content for diverse audiences with clarity and empathy.
+- **Public Health Data Analysis**  
+  Skilled in interpreting trends, validating datasets, and presenting insights for community health decision-making.
 
-### Presentation Design & Visual Storytelling  
-Creates compelling slide decks and visual aids that simplify complex ideas and resonate emotionally with audiences.
+- **Bilingual Communication (English/Spanish)**  
+  Fluent in tailoring technical and health content for diverse audiences with clarity and empathy.
 
-### Strategic Documentation & Troubleshooting  
-Delivers clear, actionable documentation and workflow solutions — bridging technical rigor with practical usability.
+- **Presentation Design & Visual Storytelling**  
+  Creates compelling slide decks and visual aids that simplify complex ideas and resonate emotionally.
+
+- **Strategic Documentation & Troubleshooting**  
+  Delivers clear, actionable documentation and workflow solutions — bridging technical rigor with practical usability.
+
+
