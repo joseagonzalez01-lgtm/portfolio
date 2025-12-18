@@ -43,5 +43,8 @@ Examples of technical reports, stakeholder updates, and visual aids for engineer
 
 - **Strategic Documentation & Troubleshooting**  
   Delivers clear, actionable documentation and workflow solutions — bridging technical rigor with practical usability.
+## 📬 Let’s Connect
+
+If you're interested in collaborating, hiring, or learning more, feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/joseagonzalez01/) or [email](joseagonzalez01@gmail.com).
 
 
