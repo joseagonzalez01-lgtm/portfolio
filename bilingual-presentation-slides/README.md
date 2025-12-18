@@ -1,4 +1,4 @@
-[Thumbnail](cover.png)
+![Thumbnail](cover.png)
 
 # Bilingual Presentation Slides
 
