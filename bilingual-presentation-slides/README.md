@@ -1,4 +1,4 @@
-![Thumbnail](Bilpres.png)
+![Thumbnail](Bilpres)
 
 # Bilingual Presentation Slides
 
