@@ -16,6 +16,8 @@ Educational materials in English and Spanish, tailored for diverse communities a
 ### 4. Strategic Documentation Templates
 Examples of technical reports, stakeholder updates, and visual aids for engineering and management teams.
 
+- [Bilingual Presentation Slides](./bilingual-presentation-slides/)
+
 ## 🧠 Skills Highlighted
 - Telecom & Electrical Infrastructure
 - Public Health Data Analysis
